@@ -9,7 +9,7 @@ __pycache__/
 .pytest_cache/
 
 # Virtual environment
-venv/
+.venv/
 
 # OS files
 .DS_Store
