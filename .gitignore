@@ -1,3 +1,16 @@
 Allurereport/
 .venv/
 .idea/
+# Python cache
+__pycache__/
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
