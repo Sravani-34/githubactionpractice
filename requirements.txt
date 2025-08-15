@@ -1,0 +1,4 @@
+selenium~=4.30.0
+pytest~=8.3.5
+playwright~=1.54.0
+requests~=2.32.3
